@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 import matplotlib.dates
 import seaborn as sns
 
-f = open('data3.json')
+f = open('09042022.json')
 
 data = json.load(f)
 f.close()
